@@ -1,3 +1,5 @@
 import UIKit
 
-var greeting = "Hello, playground"
+func divisao(dividendo: Double, divisor: Double) -> Double {
+    return dividendo / divisor
+}
